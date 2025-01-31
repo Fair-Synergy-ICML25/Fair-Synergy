@@ -1,6 +1,6 @@
 ![logoFairSynergy](./experimental_data/figures/logoFairSynergy.PNG)
 
-# A Fair Resource Allocation Framework for Distributed Machine Learning
+# Fair-Synergy: Fair Resource Allocation for Multi-Agent Intelligence
 
 Welcome to the FairSynergy repository! FairSynergy is an innovative algorithmic framework designed to optimize resource allocation and establish fair pricing mechanisms for multi-agent machine learning (ML) systems operating in distributed edge environments. This repository contains the implementation of FairSynergy along with resources to help you understand and apply this framework in various distributed ML scenarios.
 
